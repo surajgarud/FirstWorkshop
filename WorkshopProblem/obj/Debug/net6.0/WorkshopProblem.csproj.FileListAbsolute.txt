@@ -1,0 +1,15 @@
+C:\Users\suraj\source\repos\WorkshopProblem\WorkshopProblem\bin\Debug\net6.0\WorkshopProblem.exe
+C:\Users\suraj\source\repos\WorkshopProblem\WorkshopProblem\bin\Debug\net6.0\WorkshopProblem.deps.json
+C:\Users\suraj\source\repos\WorkshopProblem\WorkshopProblem\bin\Debug\net6.0\WorkshopProblem.runtimeconfig.json
+C:\Users\suraj\source\repos\WorkshopProblem\WorkshopProblem\bin\Debug\net6.0\WorkshopProblem.dll
+C:\Users\suraj\source\repos\WorkshopProblem\WorkshopProblem\bin\Debug\net6.0\ref\WorkshopProblem.dll
+C:\Users\suraj\source\repos\WorkshopProblem\WorkshopProblem\bin\Debug\net6.0\WorkshopProblem.pdb
+C:\Users\suraj\source\repos\WorkshopProblem\WorkshopProblem\obj\Debug\net6.0\WorkshopProblem.csproj.AssemblyReference.cache
+C:\Users\suraj\source\repos\WorkshopProblem\WorkshopProblem\obj\Debug\net6.0\WorkshopProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suraj\source\repos\WorkshopProblem\WorkshopProblem\obj\Debug\net6.0\WorkshopProblem.AssemblyInfoInputs.cache
+C:\Users\suraj\source\repos\WorkshopProblem\WorkshopProblem\obj\Debug\net6.0\WorkshopProblem.AssemblyInfo.cs
+C:\Users\suraj\source\repos\WorkshopProblem\WorkshopProblem\obj\Debug\net6.0\WorkshopProblem.csproj.CoreCompileInputs.cache
+C:\Users\suraj\source\repos\WorkshopProblem\WorkshopProblem\obj\Debug\net6.0\WorkshopProblem.dll
+C:\Users\suraj\source\repos\WorkshopProblem\WorkshopProblem\obj\Debug\net6.0\ref\WorkshopProblem.dll
+C:\Users\suraj\source\repos\WorkshopProblem\WorkshopProblem\obj\Debug\net6.0\WorkshopProblem.pdb
+C:\Users\suraj\source\repos\WorkshopProblem\WorkshopProblem\obj\Debug\net6.0\WorkshopProblem.genruntimeconfig.cache
